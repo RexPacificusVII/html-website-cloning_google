@@ -11,5 +11,3 @@ Key highlights of this repository include:
 4. **Ethical Usage**: Please be aware that this project was created for ethical and educational purposes. Any usage that violates ethical standards or legal regulations is strongly discouraged.
 
 Please note that this repository is intended solely for educational and experimental purposes, focusing on replicating the landing page of Google using HTML and CSS. It should not be used for any deceptive or malicious activities, and respect for intellectual property and ethical considerations is paramount.
-
-If you have any further requests or need additional information, please let me know.
